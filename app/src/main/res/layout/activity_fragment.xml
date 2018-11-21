@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- this is a view. -->
+
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_container"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    />
+
+<!-- this code replaced what was created by the IDE -->
+<!-- note it's pretty generic, not specifically for Crime Activity -->
+<!-- this is just a view for a single fragment -->
+<!-- in fact, we copied it from CrimeActivity project and use it in PhotoGallery too!-->
